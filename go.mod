@@ -3,8 +3,8 @@ module github.com/cdvelop/module_photo
 go 1.20
 
 require (
-	github.com/cdvelop/model v0.0.30
-	github.com/cdvelop/platform v0.0.2
+	github.com/cdvelop/model v0.0.36
+	github.com/cdvelop/platform v0.0.3
 	github.com/chromedp/chromedp v0.9.1
 )
 

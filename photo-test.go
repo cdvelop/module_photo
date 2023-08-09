@@ -1,4 +1,4 @@
-package photo
+package module_photo
 
 import (
 	"context"
